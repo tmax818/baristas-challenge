@@ -75,27 +75,4 @@ class OrderTest {
         assertEquals(testOrder.display(), testString);
     }
 
-    @Test
-    void getName() {
-    }
-
-    @Test
-    void setName() {
-    }
-
-    @Test
-    void isReady() {
-    }
-
-    @Test
-    void setReady() {
-    }
-
-    @Test
-    void getItems() {
-    }
-
-    @Test
-    void setItems() {
-    }
 }
